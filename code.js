@@ -1,7 +1,22 @@
-let numero1 = 5;
-let numero2 = 10;
 
 
-alert(numero1)
-alert(numero2)
-let suma = numero1 + numero2;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// document.write(numero)     ------> Mostrar por pantalla 
+// let nombre = prompt("ingrese su nombre") 
+// alert (nombre)     // alert("Hola " + nombre)
+// frase = "estoy empezando y "+ nombre + " en javascript";
